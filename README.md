@@ -1,13 +1,7 @@
 # ImageClassificationAndroid
-Implementation of firebase push notification in android.
+Implementation image classification using CNN custom model.
 
-## - For Spring Boot And React:
-
-https://github.com/mikalshrestha/FCMPushNotificationDemo-Backend
-
-https://github.com/mikalshrestha/FCMPushNotificationDemo-Admin
-
-## - Overall Flow:
+## - Output:
 
 <img src="Screenshots/Screen Shot 2021-07-27 at 10.43.04.png"></img>
 
