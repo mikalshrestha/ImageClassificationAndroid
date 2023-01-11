@@ -8,5 +8,5 @@ Implementation of image classification using custom CNN model in Android.
 
 ## - Article on Medium:
 
-
+https://mikalshrestha.medium.com/how-to-build-and-run-neural-network-model-on-edge-devices-43ab77941d2c
 
