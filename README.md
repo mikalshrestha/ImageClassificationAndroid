@@ -3,7 +3,7 @@ Implementation image classification using CNN custom model.
 
 ## - Output:
 
-<img src="Screenshots/Screen Shot 2021-07-27 at 10.43.04.png"></img>
+<img src="screenshots/image1.png"></img>
 
 
 ## - Step By Step Article on Medium:
