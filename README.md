@@ -1,5 +1,5 @@
 # ImageClassificationAndroid
-Implementation of image classification using custom CNN model in edge devices.
+Implementation of image classification using custom CNN model in Android.
 
 ## - Output:
 
