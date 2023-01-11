@@ -1,0 +1,2 @@
+rootProject.name = "ImageClassificationAndroid"
+include ':app'
